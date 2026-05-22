@@ -1,0 +1,31 @@
+MUHAMMAD ZAID YOUSUF
+Karachi, Pakistan | 03118232204 | zaidzai637@gmail.com
+
+PROFESSIONAL SUMMARY
+Motivated Web Developer and 5th-semester student. Skilled in full-stack development with a focus
+on C#, ASP.NET Core MVC, and SQL Server. Currently gaining hands-on experience as a
+Teaching Intern at Aptech.
+
+TECHNICAL SKILLS
+• Backend Development: C#, ASP.NET Core MVC, SQL Server 2019
+• Frontend Development: Angular, HTML, CSS, JavaScript, Bootstrap, React (In Progress)
+• Key Skills: DOM Manipulation, Responsive Design, Version Control (Git)
+• IT Support: Software Installation, System Maintenance & Troubleshooting
+
+PROFESSIONAL EXPERIENCE
+
+Teaching Intern | Aptech Computer Education (Nov 2025 – Present | 3 Months)
+• Conducting training sessions on Web Fundamentals, C#, and SQL Server.
+• Instructing students in MS Office Suite (Word, Excel, PowerPoint).
+• Teaching design tools including CorelDRAW and Adobe Photoshop.
+• Focusing on practical learning and software troubleshooting.
+
+EDUCATION
+• Web Development Diploma (In Progress) – Aptech Computer Education
+• HSC (Intermediate) – Aisha Bhawany College (2024)
+• SSC (Matriculation) – Karachi Board (2021)
+
+COMPUTER SKILLS
+• Operating Systems: Windows 7 & 11 (Professional Use)
+• Office Suite: Expert in MS Word, Excel, PowerPoint, and Outlook
+• Media Tools: Photo & Video Editing Tools
