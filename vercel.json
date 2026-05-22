@@ -1,0 +1,14 @@
+{
+  "buildCommand": "npm run install-all && npm run build",
+  "outputDirectory": "server",
+  "rewrites": [
+    {
+      "source": "/api/(.*)",
+      "destination": "/server/index.js"
+    },
+    {
+      "source": "/(.*)",
+      "destination": "/server/index.js"
+    }
+  ]
+}
